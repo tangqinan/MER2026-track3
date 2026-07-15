@@ -1,0 +1,1 @@
+[Acoustic Prosody] Voice energy=0.0554, Pitch var=8075.88, Sharpness=1280.9Hz, Speed=6.19b/s. | [Facial Micro-movements] Inner Brow Raiser(peak:1.00), Brow Lowerer(peak:1.00), Lid Tightener(peak:1.00) | [Macro Emotion Base] anger(max_prob:0.82), sadness(max_prob:0.65)

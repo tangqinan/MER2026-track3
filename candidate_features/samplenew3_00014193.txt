@@ -1,0 +1,1 @@
+[Acoustic Prosody] Voice energy=0.1264, Pitch var=16817.22, Sharpness=2569.8Hz, Speed=9.90b/s. | [Facial Micro-movements] Lip Corner Puller(peak:1.00), Dimpler(peak:1.00), Chin Raiser(peak:1.00) | [Macro Emotion Base] neutral(max_prob:0.96), happiness(max_prob:0.46)
