@@ -1,0 +1,23 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.bak
+
+# 大文件/敏感文件（可选）
+model2_part_*.csv
+bias_part_*.csv
+sym_part_*.csv
+fast_part_*.csv
+*.zip
+
+# 其他
+.DS_Store
+*.swp
+cached_rich_physical_features/
